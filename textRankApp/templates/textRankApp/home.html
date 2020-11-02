@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Text Rank</title>
+  </head>
+  <body>
+    <h1>Text Rank</h1>
+    <form action="{% url 'textrank' %}">
+      {% csrf_token %}
+      <p>Enter a paragraph</p>
+      <textarea type="textarea" name="text"></textarea>
+      <input type="submit" value='Get Text Ranks'>
+    </form>
+  </body>
+</html>
