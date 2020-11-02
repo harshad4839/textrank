@@ -1,0 +1,30 @@
+INPUT
+________________________________________________________________________________________
+
+
+
+text = '''
+The Wandering Earth, described as China’s first big-budget science fiction thriller, quietly made it onto screens at AMC theaters in North America this weekend, and it shows a new side of Chinese filmmaking — one focused toward futuristic spectacles rather than China’s traditionally grand, massive historical epics. At the same time, The Wandering Earth feels like a throwback to a few familiar eras of American filmmaking. While the film’s cast, setting, and tone are all Chinese, longtime science fiction fans are going to see a lot on the screen that reminds them of other movies, for better or worse.
+'''
+
+
+
+
+OUTPUT____________________________________________________________________________________________________________________________________
+
+
+
+
+
+science - 1.717603106506989
+fiction - 1.6952610926181002
+filmmaking - 1.4388798751402918
+China - 1.4259793786986021
+Earth - 1.3088154732297723
+tone - 1.1145002295684114
+Chinese - 1.0996896235078055
+Wandering - 1.0071059904601571
+weekend - 1.002449354657688
+America - 0.9976329264870932
+budget - 0.9857269586649321
+North - 0.9711240881032547
